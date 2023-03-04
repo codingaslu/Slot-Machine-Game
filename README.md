@@ -16,8 +16,9 @@ The game consists of the following steps:
 
 1. Clone the repository to your local machine.
 2. Open the command prompt or terminal and navigate to the project directory.
-3. Run the command `node slot-machine.js` to start the game.
-4. Follow the instructions on the screen to play the game.
+3. To install 'prompt-sync' module run the command: npm install prompt-sync
+4. Run the command `node slot-machine.js` to start the game.
+5. Follow the instructions on the screen to play the game.
 
 ## Game rules
 
